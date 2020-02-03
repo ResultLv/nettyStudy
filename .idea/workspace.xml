@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f0e9e24-c873-4a87-9e23-97838f32ac75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NettyDemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WmLvngEiGOSbOuaSpaJfZCL4ro" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578232175987" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.hello.html">
+    <configuration name="ChatClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.chat.ChatClient" />
+      <module name="NettyDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.chat.ChatServer" />
+      <module name="NettyDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.websocket.MyServer" />
+      <module name="NettyDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.websocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.simple.NettyServer" />
+      <module name="NettyDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/NettyDemo/netty/websocket/hello.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ChatClient" />
+      <item itemvalue="Application.ChatServer" />
+      <item itemvalue="Application.NettyServer (1)" />
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="JavaScript Debug.hello.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.hello.html" />
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.ChatClient" />
+        <item itemvalue="Application.ChatServer" />
+        <item itemvalue="Application.NettyServer (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f0e9e24-c873-4a87-9e23-97838f32ac75" name="Default Changelist" comment="" />
+      <created>1575165081087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575165081087</updated>
+      <workItem from="1575165085848" duration="10198000" />
+      <workItem from="1575560965203" duration="1226000" />
+      <workItem from="1576318122145" duration="6655000" />
+      <workItem from="1576456813054" duration="1356000" />
+      <workItem from="1577023305264" duration="3234000" />
+      <workItem from="1577367031157" duration="2565000" />
+      <workItem from="1577585125883" duration="4743000" />
+      <workItem from="1577713212506" duration="128000" />
+      <workItem from="1578110829901" duration="3236000" />
+      <workItem from="1579749052492" duration="354000" />
+      <workItem from="1579750062095" duration="1034000" />
+      <workItem from="1579763904916" duration="1836000" />
+      <workItem from="1579785642888" duration="1124000" />
+      <workItem from="1579787243211" duration="3734000" />
+      <workItem from="1579792657977" duration="4763000" />
+      <workItem from="1580005625537" duration="6889000" />
+      <workItem from="1580028520528" duration="79000" />
+      <workItem from="1580621982790" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Auto_Import" timestamp="1579792928068">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Auto_Import/0.0.1440.900@0.0.1440.900" timestamp="1579792928068" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579793661684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579793661684" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1580006901963">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1580006901963" />
+    <state x="344" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1579787306289">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="344" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579787306289" />
+    <state width="697" height="508" key="DebuggerActiveHint" timestamp="1580011522340">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="697" height="508" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1580011522340" />
+    <state width="466" height="466" key="DebuggerActiveHint/0.23.1440.827@0.23.1440.827" timestamp="1579768127514" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1580013304338">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580013304338" />
+    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580013012458" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1580013304337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580013304337" />
+    <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1580013012457" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1580013304337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580013304337" />
+    <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1580013012456" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1580013304337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580013304337" />
+    <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1580013012458" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom" timestamp="1580013302953">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580013302953" />
+    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580013012460" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center" timestamp="1580013302952">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580013302952" />
+    <state width="1398" height="248" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1580013012459" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left" timestamp="1580013302951">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580013302951" />
+    <state width="1398" height="248" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1580013012458" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right" timestamp="1580013302952">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580013302952" />
+    <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1580013012459" />
+    <state width="1398" height="248" key="GridCell.Tab.2.bottom" timestamp="1580013302954">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580013302954" />
+    <state width="1398" height="248" key="GridCell.Tab.2.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580013012461" />
+    <state width="1398" height="248" key="GridCell.Tab.2.center" timestamp="1580013302954">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1580013302954" />
+    <state width="1398" height="248" key="GridCell.Tab.2.center/0.23.1440.827@0.23.1440.827" timestamp="1580013012460" />
+    <state width="1398" height="248" key="GridCell.Tab.2.left" timestamp="1580013302953">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1580013302953" />
+    <state width="1398" height="248" key="GridCell.Tab.2.left/0.23.1440.827@0.23.1440.827" timestamp="1580013012460" />
+    <state width="1398" height="248" key="GridCell.Tab.2.right" timestamp="1580013302954">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="248" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1580013302954" />
+    <state width="1398" height="248" key="GridCell.Tab.2.right/0.23.1440.827@0.23.1440.827" timestamp="1580013012461" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1579792236955">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1579792236955" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1579789598753">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579789598753" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580006881276">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580006881276" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nio/test/testNonBlockingNIOServer.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
