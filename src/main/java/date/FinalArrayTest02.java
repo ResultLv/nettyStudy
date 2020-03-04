@@ -1,10 +1,27 @@
 package date;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class FinalArrayTest02 {
+
+    private static void test(){
+        String [] strArrs = new String[]{"11", "22", "ss", "44", "55"};
+        for (String str : strArrs){
+            try {
+                int i = Integer.parseInt(str);
+                System.out.println(i);
+            }catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    private static void lambdaTest(){
+        Map<String, String> map = new HashMap<>();
+    }
+
     public static void main(String[] args){
-        FinalArrayTest01 test01 = new FinalArrayTest01();
-        System.out.println(test01.toString());
-        FinalArrayTest01.love[2] = "苏婉怡";
-        System.out.println(test01.toString());
+        test();
     }
 }
