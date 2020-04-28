@@ -1,8 +1,5 @@
-package solution;
+package solution.stack;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 import java.util.Stack;
 
 /**
@@ -31,7 +28,7 @@ class MinStack {
             min = x;
         }
         stack.push(x);
-    }
+    }   
 
     public void pop() {
         if (stack.empty())
