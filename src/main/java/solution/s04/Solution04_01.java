@@ -1,6 +1,5 @@
 package solution.s04;
 
-import javax.security.auth.login.CredentialException;
 import java.util.LinkedList;
 import java.util.List;
 

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f0e9e24-c873-4a87-9e23-97838f32ac75" name="Default Changelist" comment="" />
+    <list default="true" id="8f0e9e24-c873-4a87-9e23-97838f32ac75" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/DeserializationBomb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solution/s04/Solution04_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solution/s04/Solution04_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/date/FinalArrayTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/date/FinalArrayTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/netty/simple/NettyServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/netty/simple/NettyServerHandler.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +20,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,6 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1WmLvngEiGOSbOuaSpaJfZCL4ro" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,33 +60,20 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.hello.html">
-    <configuration name="ChatClient" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netty.chat.ChatClient" />
+  <component name="RunManager" selected="Application.DeserializationBomb">
+    <configuration name="DeserializationBomb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.DeserializationBomb" />
       <module name="NettyDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="netty.chat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netty.chat.ChatServer" />
-      <module name="NettyDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="netty.chat.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NettyServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netty.simple.NettyServer" />
+    <configuration name="Solution02_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution.Solution02_03" />
       <module name="NettyDemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="netty.simple.*" />
+          <option name="PATTERN" value="solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution04_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solution.s04.Solution04_01" />
+      <module name="NettyDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solution.s04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +124,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ChatClient" />
-      <item itemvalue="Application.ChatServer" />
-      <item itemvalue="Application.NettyServer (1)" />
       <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.Solution02_03" />
+      <item itemvalue="Application.Solution04_01" />
+      <item itemvalue="Application.DeserializationBomb" />
       <item itemvalue="JavaScript Debug.hello.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeserializationBomb" />
+        <item itemvalue="Application.Solution04_01" />
+        <item itemvalue="Application.Solution02_03" />
         <item itemvalue="JavaScript Debug.hello.html" />
         <item itemvalue="Application.MyServer" />
-        <item itemvalue="Application.ChatClient" />
-        <item itemvalue="Application.ChatServer" />
-        <item itemvalue="Application.NettyServer (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -155,106 +168,110 @@
       <workItem from="1580005625537" duration="6889000" />
       <workItem from="1580028520528" duration="79000" />
       <workItem from="1580621982790" duration="295000" />
+      <workItem from="1580698711388" duration="641000" />
+      <workItem from="1580703740726" duration="302000" />
+      <workItem from="1583327337882" duration="1344000" />
+      <workItem from="1583502832686" duration="2174000" />
+      <workItem from="1586226591823" duration="1251000" />
+      <workItem from="1586231352357" duration="101000" />
+      <workItem from="1592138455795" duration="4839000" />
+      <workItem from="1594999062159" duration="2608000" />
+      <workItem from="1595005039528" duration="365000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1586226702863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586226702863</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1592223759536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592223759536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="115" key="#Auto_Import" timestamp="1579792928068">
+    <state x="320" y="117" key="#Inspections" timestamp="1592143161538">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="115" key="#Auto_Import/0.0.1440.900@0.0.1440.900" timestamp="1579792928068" />
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579793661684">
+    <state x="320" y="117" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1592143161538" />
+    <state x="332" y="128" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1595002719553">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579793661684" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1580006901963">
+    <state x="332" y="128" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1595002719553" />
+    <state x="303" y="54" width="920" height="767" key="CommitChangelistDialog2" timestamp="1595005340540">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="303" y="49" width="920" height="767" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1595003830372" />
+    <state x="303" y="54" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1595005340540" />
+    <state x="146" y="76" key="DiffContextDialog" timestamp="1595002486968">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1580006901963" />
-    <state x="344" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1579787306289">
+    <state x="146" y="76" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1595002486968" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1595003732572">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="344" y="123" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1440.900@0.0.1440.900" timestamp="1579787306289" />
-    <state width="697" height="508" key="DebuggerActiveHint" timestamp="1580011522340">
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595003732572" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1592227863898" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1595003732570">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="697" height="508" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1580011522340" />
-    <state width="466" height="466" key="DebuggerActiveHint/0.23.1440.827@0.23.1440.827" timestamp="1579768127514" />
-    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1580013304338">
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595003732570" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1592227863898" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1595003732569">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580013304338" />
-    <state width="1398" height="248" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580013012458" />
-    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1580013304337">
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595003732569" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1592227863896" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1595003732571">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580013304337" />
-    <state width="1398" height="248" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1580013012457" />
-    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1580013304337">
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595003732571" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1592227863898" />
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1595003722625">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580013304337" />
-    <state width="1398" height="248" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1580013012456" />
-    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1580013304337">
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595003722625" />
+    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1595003722624">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580013304337" />
-    <state width="1398" height="248" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1580013012458" />
-    <state width="1398" height="248" key="GridCell.Tab.1.bottom" timestamp="1580013302953">
+    <state width="1398" height="265" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1595003722624" />
+    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1595003722623">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580013302953" />
-    <state width="1398" height="248" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580013012460" />
-    <state width="1398" height="248" key="GridCell.Tab.1.center" timestamp="1580013302952">
+    <state width="1398" height="265" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1595003722623" />
+    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1595003722624">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580013302952" />
-    <state width="1398" height="248" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1580013012459" />
-    <state width="1398" height="248" key="GridCell.Tab.1.left" timestamp="1580013302951">
+    <state width="1398" height="265" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595003722624" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1595005026966">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580013302951" />
-    <state width="1398" height="248" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1580013012458" />
-    <state width="1398" height="248" key="GridCell.Tab.1.right" timestamp="1580013302952">
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595005026966" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1592223763872">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580013302952" />
-    <state width="1398" height="248" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1580013012459" />
-    <state width="1398" height="248" key="GridCell.Tab.2.bottom" timestamp="1580013302954">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1592223763872" />
+    <state x="411" y="248" key="git4idea.merge.GitPullDialog" timestamp="1592138883076">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580013302954" />
-    <state width="1398" height="248" key="GridCell.Tab.2.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580013012461" />
-    <state width="1398" height="248" key="GridCell.Tab.2.center" timestamp="1580013302954">
+    <state x="411" y="248" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1592138883076" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1595003031544">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="248" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1580013302954" />
-    <state width="1398" height="248" key="GridCell.Tab.2.center/0.23.1440.827@0.23.1440.827" timestamp="1580013012460" />
-    <state width="1398" height="248" key="GridCell.Tab.2.left" timestamp="1580013302953">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="248" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1580013302953" />
-    <state width="1398" height="248" key="GridCell.Tab.2.left/0.23.1440.827@0.23.1440.827" timestamp="1580013012460" />
-    <state width="1398" height="248" key="GridCell.Tab.2.right" timestamp="1580013302954">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="248" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1580013302954" />
-    <state width="1398" height="248" key="GridCell.Tab.2.right/0.23.1440.827@0.23.1440.827" timestamp="1580013012461" />
-    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1579792236955">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1579792236955" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1579789598753">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1579789598753" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580006881276">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580006881276" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1595003031544" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -263,6 +280,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/nio/test/testNonBlockingNIOServer.java</url>
           <line>44</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test/DeserializationBomb.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
