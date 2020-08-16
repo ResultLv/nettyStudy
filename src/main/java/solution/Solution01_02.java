@@ -8,7 +8,9 @@ public class Solution01_02 {
     public static boolean CheckPermutation(String s1, String s2) {
         Map<Character, Integer> map1 = new HashMap<>();
         Map<Character, Integer> map2 = new HashMap<>();
-        if (s1.length() != s2.length()) return false;
+        if (s1.length() != s2.length()) {
+            return false;
+        }
         for (int i = 0; i < s1.length(); i++) {
             char c1 = s1.charAt(i);
             if (!map1.containsKey(c1)){
@@ -26,7 +28,7 @@ public class Solution01_02 {
         for (Map.Entry<Character, Integer> entry : map1.entrySet()){
             if (!map2.containsKey(entry.getKey())){
                 return false;
-            }else if (map2.get(entry.getKey()) != entry.getValue()){
+            }else if (!map2.get(entry.getKey()).equals(entry.getValue())){
                 return false;
             }
         }
