@@ -26,9 +26,12 @@ public class DeserializationBomb {
     }
 
     public static void main(String[] args) throws IOException {
-        byte[] bomb = bomb();
-        System.out.println(Arrays.toString(bomb));
-        System.out.println(bomb.length);
+//        byte[] bomb = bomb();
+//        System.out.println(Arrays.toString(bomb));
+//        System.out.println(bomb.length);
+        for (int i = 0; i < 100; i++) {
+            System.out.println(EncryptMachine.getInstance().toString());
+        }
     }
 
     /**
